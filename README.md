@@ -13,7 +13,10 @@
 ![Screenshot (33)](https://github.com/user-attachments/assets/dcbb4243-59c5-4366-a4eb-ef35091cbbcc)
 
 ![Screenshot (34)](https://github.com/user-attachments/assets/59f53803-60ee-4165-b160-1a42f3e8a2af)
-
+![Screenshot (37)](https://github.com/user-attachments/assets/5050939c-6ed7-4e8c-98ab-479a3529e788)
+![Screenshot (38)](https://github.com/user-attachments/assets/30b99506-e4cf-4c13-a820-557af67574e5)
+![Screenshot (39)](https://github.com/user-attachments/assets/ba3e3f1e-7525-4afe-9a50-c484fd34bfa8)
+![Screenshot (40)](https://github.com/user-attachments/assets/1b1a58d6-58cb-4173-9fb7-54b6e3810468)
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
