@@ -9,6 +9,12 @@
 * Media Upload : Allow users to upload images ( JPG , PNG ) , videos ( MP4 ) , and audio files ( MP3 ) . 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+# Login Admin 
+Email :
+admin@gmail.com
+Password :
+Admin
+
 
 ![Screenshot (33)](https://github.com/user-attachments/assets/dcbb4243-59c5-4366-a4eb-ef35091cbbcc)
 
