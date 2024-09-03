@@ -3,7 +3,10 @@
 * * Create posts with a title , content , and the ability to upload media files . 
 * * Edit and delete their own posts . 
 * * Attach media files ( images , videos , audio ) to posts. 
-
+# The post creation form should include fields for : 
+* Title ( required , minimum of 3 characters ) 
+* Content ( optional , text area rendered using appropriate tags such as < p > , < h2 > , etc. ) 
+* Media Upload : Allow users to upload images ( JPG , PNG ) , videos ( MP4 ) , and audio files ( MP3 ) . 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
