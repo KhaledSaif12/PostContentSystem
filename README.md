@@ -1,3 +1,9 @@
+# # Design the data structure for storing posts , including title , content , media files ( images , videos , audio ) , timestamps , and user information.
+* o The system should allow users to : 
+* * Create posts with a title , content , and the ability to upload media files . 
+* * Edit and delete their own posts . 
+* * Attach media files ( images , videos , audio ) to posts. 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
