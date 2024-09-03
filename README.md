@@ -12,6 +12,8 @@
 
 ![Screenshot (33)](https://github.com/user-attachments/assets/dcbb4243-59c5-4366-a4eb-ef35091cbbcc)
 
+![Screenshot (34)](https://github.com/user-attachments/assets/59f53803-60ee-4165-b160-1a42f3e8a2af)
+
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
